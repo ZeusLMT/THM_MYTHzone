@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 959fd4af79631e74eba4745beb685ab0
+timeCreated: 1489282021
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MightyEater_0
+    21300002: MightyEater_1
+    21300004: MightyEater_2
+    21300006: MightyEater_3
+    21300008: MightyEater_4
+    21300010: MightyEater_38
+    21300012: MightyEater_39
+    21300014: MightyEater_40
+    21300016: MightyEater_41
+    21300018: MightyEater_42
+    21300020: MightyEater_43
+    21300022: MightyEater_44
+    21300024: MightyEater_45
+    21300026: MightyEater_63
+    21300028: MightyEater_69
+    21300030: MightyEater_74
+    21300032: MightyEater_75
+    21300034: MightyEater_76
+    21300036: MightyEater_77
+    21300038: MightyEater_78
+    21300040: MightyEater_83
+    21300042: MightyEater_84
+    21300044: MightyEater_85
+    21300046: MightyEater_86
+    21300048: MightyEater_87
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MightyEater_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 660
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.61135685, y: 0.034809656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 660
+        width: 79
+        height: 112
+      alignment: 9
+      pivot: {x: 0.58599156, y: 0.041718073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 660
+        width: 79
+        height: 113
+      alignment: 9
+      pivot: {x: 0.51886916, y: 0.04377031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 660
+        width: 78
+        height: 111
+      alignment: 9
+      pivot: {x: 0.54499775, y: 0.044389606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 660
+        width: 80
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6009575, y: 0.042133678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 529
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5972327, y: 0.03119932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 529
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.45138362, y: 0.019478934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 529
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.32173967, y: 0.03119932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 529
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.2731233, y: 0.048779078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 529
+        width: 228
+        height: 101
+      alignment: 9
+      pivot: {x: 0.85406816, y: 0.012632464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_43
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 529
+        width: 181
+        height: 100
+      alignment: 9
+      pivot: {x: 0.8082171, y: 0.040574953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_44
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 528
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_45
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 529
+        width: 157
+        height: 104
+      alignment: 9
+      pivot: {x: 0.78008604, y: 0.031959534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 270
+        width: 105
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5619372, y: 0.04108019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 118
+        width: 100
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5550289, y: 0.02867694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 118
+        width: 97
+        height: 93
+      alignment: 9
+      pivot: {x: 0.6289339, y: 0.042769566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 118
+        width: 125
+        height: 86
+      alignment: 9
+      pivot: {x: 0.68809915, y: 0.034638338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_76
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 119
+        width: 125
+        height: 50
+      alignment: 9
+      pivot: {x: 0.71211207, y: 0.04976288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 119
+        width: 125
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7038408, y: 0.06554794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_78
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 120
+        width: 125
+        height: 50
+      alignment: 9
+      pivot: {x: 0.70810986, y: 0.06977295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_83
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 125
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 125
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_85
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 8
+        width: 125
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_86
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 8
+        width: 125
+        height: 87
+      alignment: 9
+      pivot: {x: 0.6519102, y: 0.044562735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MightyEater_87
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 8
+        width: 97
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6579086, y: 0.051133566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

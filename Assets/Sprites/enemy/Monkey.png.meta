@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 7d878b00a7154432b872c5b5bd3a4637
+timeCreated: 1488834925
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monkey_0
+    21300002: Monkey_1
+    21300004: Monkey_2
+    21300006: Monkey_3
+    21300008: Monkey_4
+    21300010: Monkey_5
+    21300012: Monkey_6
+    21300014: Monkey_7
+    21300016: Monkey_8
+    21300018: Monkey_9
+    21300020: Monkey_10
+    21300022: Monkey_11
+    21300024: Monkey_12
+    21300026: Monkey_13
+    21300028: Monkey_14
+    21300030: Monkey_15
+    21300032: Monkey_16
+    21300034: Monkey_17
+    21300036: Monkey_18
+    21300038: Monkey_19
+    21300040: Monkey_20
+    21300042: Monkey_21
+    21300044: Monkey_22
+    21300046: Monkey_23
+    21300048: Monkey_24
+    21300050: Monkey_25
+    21300052: Monkey_26
+    21300054: Monkey_27
+    21300056: Monkey_28
+    21300058: Monkey_29
+    21300060: Monkey_30
+    21300062: Monkey_31
+    21300064: Monkey_32
+    21300066: Monkey_33
+    21300068: Monkey_34
+    21300070: Monkey_35
+    21300072: Monkey_36
+    21300074: Monkey_37
+    21300076: Monkey_38
+    21300078: Monkey_39
+    21300080: Monkey_40
+    21300082: Monkey_41
+    21300084: Monkey_42
+    21300086: Monkey_43
+    21300088: Monkey_44
+    21300090: Monkey_45
+    21300092: Monkey_46
+    21300094: Monkey_47
+    21300096: Monkey_48
+    21300098: Monkey_49
+    21300100: Monkey_50
+    21300102: Monkey_51
+    21300104: Monkey_52
+    21300106: Monkey_53
+    21300108: Monkey_54
+    21300110: Monkey_55
+    21300112: Monkey_56
+    21300114: Monkey_57
+    21300116: Monkey_58
+    21300118: Monkey_59
+    21300120: Monkey_60
+    21300122: Monkey_61
+    21300124: Monkey_62
+    21300126: Monkey_63
+    21300128: Monkey_64
+    21300130: Monkey_65
+    21300132: Monkey_66
+    21300134: Monkey_67
+    21300136: Monkey_68
+    21300138: Monkey_69
+    21300140: Monkey_70
+    21300142: Monkey_71
+    21300144: Monkey_72
+    21300146: Monkey_73
+    21300148: Monkey_74
+    21300150: Monkey_75
+    21300152: Monkey_76
+    21300154: Monkey_77
+    21300156: Monkey_78
+    21300158: Monkey_79
+    21300160: Monkey_80
+    21300162: Monkey_81
+    21300164: Monkey_82
+    21300166: Monkey_83
+    21300168: Monkey_84
+    21300170: Monkey_85
+    21300172: Monkey_86
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monkey_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 435
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monkey_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 435
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monkey_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 437
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

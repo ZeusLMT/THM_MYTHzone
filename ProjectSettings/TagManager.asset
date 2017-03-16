@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Edge
+  - Deadly
+  - PlayerKnife
+  - Enemy2Bullet
+  - KnifeAttack
+  - Enemy
+  - Fire
+  - Sight
+  - Harmful
+  - Platform
+  - Ground
+  - FireBall
+  - WaterSplash
+  - LongPlatform
+  - Switch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Solid
+  - Platform
+  - Falling
+  - Commander
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 20275b34b57eaf1479535f696cf9fbd4
+timeCreated: 1489095145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RisellSquid_0
+    21300002: RisellSquid_1
+    21300004: RisellSquid_2
+    21300006: RisellSquid_3
+    21300008: RisellSquid_4
+    21300010: RisellSquid_5
+    21300012: RisellSquid_6
+    21300014: RisellSquid_7
+    21300016: RisellSquid_8
+    21300018: RisellSquid_9
+    21300020: RisellSquid_10
+    21300022: RisellSquid_11
+    21300024: RisellSquid_12
+    21300026: RisellSquid_13
+    21300028: RisellSquid_27
+    21300030: RisellSquid_28
+    21300032: RisellSquid_29
+    21300034: RisellSquid_30
+    21300036: RisellSquid_31
+    21300038: RisellSquid_32
+    21300040: RisellSquid_33
+    21300042: RisellSquid_34
+    21300044: RisellSquid_35
+    21300046: RisellSquid_36
+    21300048: RisellSquid_37
+    21300050: RisellSquid_38
+    21300052: RisellSquid_39
+    21300054: RisellSquid_40
+    21300056: RisellSquid_41
+    21300058: RisellSquid_42
+    21300060: RisellSquid_43
+    21300062: RisellSquid_44
+    21300064: RisellSquid_45
+    21300066: RisellSquid_46
+    21300068: RisellSquid_47
+    21300070: RisellSquid_48
+    21300072: RisellSquid_49
+    21300074: RisellSquid_50
+    21300076: RisellSquid_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RisellSquid_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 863
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 863
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 863
+        width: 106
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 863
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 863
+        width: 109
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_5
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 863
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 767
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 767
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 767
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 767
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 767
+        width: 109
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 767
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_12
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 767
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 643
+        width: 140
+        height: 107
+      alignment: 9
+      pivot: {x: 0.15844402, y: 0.2502641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 534
+        width: 107
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51013803, y: 0.4738061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 534
+        width: 130
+        height: 73
+      alignment: 9
+      pivot: {x: 0.39453396, y: 0.5652692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 534
+        width: 178
+        height: 71
+      alignment: 9
+      pivot: {x: 0.7315, y: 0.56475747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 534
+        width: 140
+        height: 72
+      alignment: 9
+      pivot: {x: 0.68120116, y: 0.58289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 534
+        width: 129
+        height: 85
+      alignment: 9
+      pivot: {x: 0.65389186, y: 0.4851864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 533
+        width: 105
+        height: 94
+      alignment: 9
+      pivot: {x: 0.56942487, y: 0.4097186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 405
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 405
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 289
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 289
+        width: 144
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 289
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 289
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_39
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 289
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_40
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 289
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 290
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 161
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 161
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 161
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 161
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 140
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 14
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 16
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_50
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 15
+        width: 142
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RisellSquid_51
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 14
+        width: 145
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

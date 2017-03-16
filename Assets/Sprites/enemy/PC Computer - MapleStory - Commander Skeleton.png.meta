@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: a6af9a99e65114eb4b283236de095383
+timeCreated: 1489104851
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Commander Skeleton_0
+    21300002: PC Computer - MapleStory - Commander Skeleton_1
+    21300004: PC Computer - MapleStory - Commander Skeleton_2
+    21300006: PC Computer - MapleStory - Commander Skeleton_3
+    21300008: PC Computer - MapleStory - Commander Skeleton_4
+    21300010: PC Computer - MapleStory - Commander Skeleton_5
+    21300012: PC Computer - MapleStory - Commander Skeleton_6
+    21300014: PC Computer - MapleStory - Commander Skeleton_7
+    21300016: PC Computer - MapleStory - Commander Skeleton_8
+    21300018: PC Computer - MapleStory - Commander Skeleton_9
+    21300020: PC Computer - MapleStory - Commander Skeleton_10
+    21300022: PC Computer - MapleStory - Commander Skeleton_11
+    21300024: PC Computer - MapleStory - Commander Skeleton_12
+    21300026: PC Computer - MapleStory - Commander Skeleton_13
+    21300028: PC Computer - MapleStory - Commander Skeleton_14
+    21300030: PC Computer - MapleStory - Commander Skeleton_15
+    21300032: PC Computer - MapleStory - Commander Skeleton_16
+    21300034: PC Computer - MapleStory - Commander Skeleton_17
+    21300036: PC Computer - MapleStory - Commander Skeleton_18
+    21300038: PC Computer - MapleStory - Commander Skeleton_19
+    21300040: PC Computer - MapleStory - Commander Skeleton_20
+    21300042: PC Computer - MapleStory - Commander Skeleton_21
+    21300044: PC Computer - MapleStory - Commander Skeleton_22
+    21300046: PC Computer - MapleStory - Commander Skeleton_23
+    21300048: PC Computer - MapleStory - Commander Skeleton_24
+    21300050: PC Computer - MapleStory - Commander Skeleton_25
+    21300052: PC Computer - MapleStory - Commander Skeleton_26
+    21300054: PC Computer - MapleStory - Commander Skeleton_27
+    21300056: PC Computer - MapleStory - Commander Skeleton_28
+    21300058: PC Computer - MapleStory - Commander Skeleton_29
+    21300060: PC Computer - MapleStory - Commander Skeleton_30
+    21300062: PC Computer - MapleStory - Commander Skeleton_31
+    21300064: PC Computer - MapleStory - Commander Skeleton_32
+    21300066: PC Computer - MapleStory - Commander Skeleton_33
+    21300068: PC Computer - MapleStory - Commander Skeleton_34
+    21300070: PC Computer - MapleStory - Commander Skeleton_35
+    21300072: PC Computer - MapleStory - Commander Skeleton_36
+    21300074: PC Computer - MapleStory - Commander Skeleton_37
+    21300076: PC Computer - MapleStory - Commander Skeleton_38
+    21300078: PC Computer - MapleStory - Commander Skeleton_39
+    21300080: PC Computer - MapleStory - Commander Skeleton_40
+    21300082: PC Computer - MapleStory - Commander Skeleton_41
+    21300084: PC Computer - MapleStory - Commander Skeleton_42
+    21300086: PC Computer - MapleStory - Commander Skeleton_43
+    21300088: PC Computer - MapleStory - Commander Skeleton_44
+    21300090: PC Computer - MapleStory - Commander Skeleton_45
+    21300092: PC Computer - MapleStory - Commander Skeleton_46
+    21300094: PC Computer - MapleStory - Commander Skeleton_47
+    21300096: PC Computer - MapleStory - Commander Skeleton_48
+    21300098: PC Computer - MapleStory - Commander Skeleton_49
+    21300100: PC Computer - MapleStory - Commander Skeleton_50
+    21300102: PC Computer - MapleStory - Commander Skeleton_51
+    21300104: PC Computer - MapleStory - Commander Skeleton_52
+    21300106: PC Computer - MapleStory - Commander Skeleton_53
+    21300108: PC Computer - MapleStory - Commander Skeleton_54
+    21300110: PC Computer - MapleStory - Commander Skeleton_55
+    21300112: PC Computer - MapleStory - Commander Skeleton_56
+    21300114: PC Computer - MapleStory - Commander Skeleton_57
+    21300116: PC Computer - MapleStory - Commander Skeleton_58
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 655
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 119
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 655
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 655
+        width: 119
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 503
+        width: 125
+        height: 126
+      alignment: 9
+      pivot: {x: 0.41903168, y: 0.59237474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 503
+        width: 118
+        height: 130
+      alignment: 9
+      pivot: {x: 0.43567154, y: 0.6128883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 503
+        width: 125
+        height: 126
+      alignment: 9
+      pivot: {x: 0.41903198, y: 0.6004072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 503
+        width: 118
+        height: 130
+      alignment: 9
+      pivot: {x: 0.43567154, y: 0.6128883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 348
+        width: 123
+        height: 141
+      alignment: 9
+      pivot: {x: 0.40597913, y: 0.5362737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 415
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 415
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 418
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 418
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 406
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 399
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 399
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 399
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 399
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 399
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 399
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 378
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 189
+        width: 119
+        height: 138
+      alignment: 9
+      pivot: {x: 0.45268533, y: 0.6335294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 188
+        width: 147
+        height: 137
+      alignment: 9
+      pivot: {x: 0.548749, y: 0.62703174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 188
+        width: 150
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5545988, y: 0.62133044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 189
+        width: 149
+        height: 136
+      alignment: 9
+      pivot: {x: 0.561836, y: 0.6242021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 189
+        width: 148
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5622538, y: 0.62982047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 189
+        width: 149
+        height: 136
+      alignment: 9
+      pivot: {x: 0.55496526, y: 0.6204383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 188
+        width: 150
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5511865, y: 0.62133044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 189
+        width: 149
+        height: 136
+      alignment: 9
+      pivot: {x: 0.55496526, y: 0.6204383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 15
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 15
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 15
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 15
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 15
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_36
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 15
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_37
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 15
+        width: 130
+        height: 86
+      alignment: 9
+      pivot: {x: 0.49575666, y: 0.673176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_38
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 16
+        width: 131
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4831571, y: 0.6622344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_48
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 16
+        width: 131
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4831, y: 0.662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_39
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 16
+        width: 131
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4831, y: 0.662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 499
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.40515634, y: 0.56651396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_41
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 499
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.40946722, y: 0.59977067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_42
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 500
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.41377857, y: 0.55819964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_43
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 499
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4396448, y: 0.5914564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_44
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 347
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.42816025, y: 0.6125708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_45
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 349
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.43265018, y: 0.63421893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 351
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.3922404, y: 0.5952521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Commander Skeleton_47
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 352
+        width: 135
+        height: 140
+      alignment: 9
+      pivot: {x: 0.42816025, y: 0.61690044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

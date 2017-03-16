@@ -1,0 +1,1316 @@
+fileFormatVersion: 2
+guid: 204954c68bcda44489b98b13b21c455f
+timeCreated: 1489095627
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Poison Flower_0
+    21300002: PC Computer - MapleStory - Poison Flower_1
+    21300004: PC Computer - MapleStory - Poison Flower_2
+    21300006: PC Computer - MapleStory - Poison Flower_3
+    21300008: PC Computer - MapleStory - Poison Flower_4
+    21300010: PC Computer - MapleStory - Poison Flower_5
+    21300012: PC Computer - MapleStory - Poison Flower_6
+    21300014: PC Computer - MapleStory - Poison Flower_7
+    21300016: PC Computer - MapleStory - Poison Flower_8
+    21300018: PC Computer - MapleStory - Poison Flower_9
+    21300020: PC Computer - MapleStory - Poison Flower_10
+    21300022: PC Computer - MapleStory - Poison Flower_11
+    21300024: PC Computer - MapleStory - Poison Flower_12
+    21300026: PC Computer - MapleStory - Poison Flower_13
+    21300028: PC Computer - MapleStory - Poison Flower_14
+    21300030: PC Computer - MapleStory - Poison Flower_15
+    21300032: PC Computer - MapleStory - Poison Flower_16
+    21300034: PC Computer - MapleStory - Poison Flower_17
+    21300036: PC Computer - MapleStory - Poison Flower_18
+    21300038: PC Computer - MapleStory - Poison Flower_19
+    21300040: PC Computer - MapleStory - Poison Flower_20
+    21300042: PC Computer - MapleStory - Poison Flower_21
+    21300044: PC Computer - MapleStory - Poison Flower_22
+    21300046: PC Computer - MapleStory - Poison Flower_23
+    21300048: PC Computer - MapleStory - Poison Flower_24
+    21300050: PC Computer - MapleStory - Poison Flower_25
+    21300052: PC Computer - MapleStory - Poison Flower_26
+    21300054: PC Computer - MapleStory - Poison Flower_27
+    21300056: PC Computer - MapleStory - Poison Flower_28
+    21300058: PC Computer - MapleStory - Poison Flower_29
+    21300060: PC Computer - MapleStory - Poison Flower_30
+    21300062: PC Computer - MapleStory - Poison Flower_31
+    21300064: PC Computer - MapleStory - Poison Flower_32
+    21300066: PC Computer - MapleStory - Poison Flower_33
+    21300068: PC Computer - MapleStory - Poison Flower_34
+    21300070: PC Computer - MapleStory - Poison Flower_35
+    21300072: PC Computer - MapleStory - Poison Flower_36
+    21300074: PC Computer - MapleStory - Poison Flower_37
+    21300076: PC Computer - MapleStory - Poison Flower_38
+    21300078: PC Computer - MapleStory - Poison Flower_39
+    21300080: PC Computer - MapleStory - Poison Flower_40
+    21300082: PC Computer - MapleStory - Poison Flower_41
+    21300084: PC Computer - MapleStory - Poison Flower_42
+    21300086: PC Computer - MapleStory - Poison Flower_43
+    21300088: PC Computer - MapleStory - Poison Flower_44
+    21300090: PC Computer - MapleStory - Poison Flower_45
+    21300092: PC Computer - MapleStory - Poison Flower_46
+    21300094: PC Computer - MapleStory - Poison Flower_47
+    21300096: PC Computer - MapleStory - Poison Flower_48
+    21300098: PC Computer - MapleStory - Poison Flower_49
+    21300100: PC Computer - MapleStory - Poison Flower_50
+    21300102: PC Computer - MapleStory - Poison Flower_51
+    21300104: PC Computer - MapleStory - Poison Flower_52
+    21300106: PC Computer - MapleStory - Poison Flower_53
+    21300108: PC Computer - MapleStory - Poison Flower_54
+    21300110: PC Computer - MapleStory - Poison Flower_55
+    21300112: PC Computer - MapleStory - Poison Flower_56
+    21300114: PC Computer - MapleStory - Poison Flower_57
+    21300116: PC Computer - MapleStory - Poison Flower_58
+    21300118: PC Computer - MapleStory - Poison Flower_59
+    21300120: PC Computer - MapleStory - Poison Flower_60
+    21300122: PC Computer - MapleStory - Poison Flower_61
+    21300124: PC Computer - MapleStory - Poison Flower_62
+    21300126: PC Computer - MapleStory - Poison Flower_63
+    21300128: PC Computer - MapleStory - Poison Flower_64
+    21300130: PC Computer - MapleStory - Poison Flower_65
+    21300132: PC Computer - MapleStory - Poison Flower_66
+    21300134: PC Computer - MapleStory - Poison Flower_67
+    21300136: PC Computer - MapleStory - Poison Flower_68
+    21300138: PC Computer - MapleStory - Poison Flower_69
+    21300140: PC Computer - MapleStory - Poison Flower_70
+    21300142: PC Computer - MapleStory - Poison Flower_71
+    21300144: PC Computer - MapleStory - Poison Flower_72
+    21300146: PC Computer - MapleStory - Poison Flower_73
+    21300148: PC Computer - MapleStory - Poison Flower_74
+    21300150: PC Computer - MapleStory - Poison Flower_75
+    21300152: PC Computer - MapleStory - Poison Flower_76
+    21300154: PC Computer - MapleStory - Poison Flower_77
+    21300156: PC Computer - MapleStory - Poison Flower_78
+    21300158: PC Computer - MapleStory - Poison Flower_79
+    21300160: PC Computer - MapleStory - Poison Flower_80
+    21300162: PC Computer - MapleStory - Poison Flower_81
+    21300164: PC Computer - MapleStory - Poison Flower_82
+    21300166: PC Computer - MapleStory - Poison Flower_83
+    21300168: PC Computer - MapleStory - Poison Flower_84
+    21300170: PC Computer - MapleStory - Poison Flower_85
+    21300172: PC Computer - MapleStory - Poison Flower_86
+    21300174: PC Computer - MapleStory - Poison Flower_87
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 486
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.525104, y: 0.038093396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 486
+        width: 55
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5602492, y: 0.0514818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 486
+        width: 65
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5741525, y: 0.048134845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 486
+        width: 67
+        height: 47
+      alignment: 9
+      pivot: {x: 0.57643515, y: 0.04492967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 486
+        width: 71
+        height: 49
+      alignment: 9
+      pivot: {x: 0.61880064, y: 0.038913026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 486
+        width: 67
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5854278, y: 0.044930317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 486
+        width: 65
+        height: 46
+      alignment: 9
+      pivot: {x: 0.58342147, y: 0.02848816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 486
+        width: 55
+        height: 45
+      alignment: 9
+      pivot: {x: 0.56024945, y: 0.038093396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 413
+        width: 64
+        height: 45
+      alignment: 9
+      pivot: {x: 0.595791, y: 0.03555908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 413
+        width: 51
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46721604, y: 0.054136828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 412
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: 0.24319158, y: 0.055114746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 413
+        width: 125
+        height: 50
+      alignment: 9
+      pivot: {x: 0.73630714, y: 0.020697022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 413
+        width: 80
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6497818, y: 0.03184326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 413
+        width: 75
+        height: 49
+      alignment: 9
+      pivot: {x: 0.68206054, y: 0.022289665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 368
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 344
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 288
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 278
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 308
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 288
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 288
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 288
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 301
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 274
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 274
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 204
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 204
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 203
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 202
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 203
+        width: 123
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 204
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_35
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 209
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_36
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 204
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_37
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 211
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_38
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 204
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_39
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 211
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_40
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 204
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_41
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 204
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_42
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 204
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_43
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 203
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5088908, y: 0.044728257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 128
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.34706894, y: 0.043949787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 164
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 161
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 164
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 164
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 164
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 164
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 164
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 164
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 164
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_58
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 150
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 148
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_60
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 148
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 148
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 148
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 148
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 145
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_65
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 145
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_66
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 148
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 148
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_69
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 148
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 148
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 133
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 132
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 132
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 129
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 132
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_76
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 132
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_79
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 132
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 58
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5448593, y: 0.02809749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 62
+        width: 69
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5094266, y: 0.034129582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 62
+        width: 64
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.060939215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_83
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_86
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Poison Flower_87
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 6
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

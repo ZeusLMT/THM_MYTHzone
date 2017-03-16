@@ -1,0 +1,1854 @@
+fileFormatVersion: 2
+guid: 377d572c0cd7a48dd8d8ac3ee9fd25f5
+timeCreated: 1489053831
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fire blue bullet_0
+    21300002: Fire blue bullet_1
+    21300004: Fire blue bullet_2
+    21300006: Fire blue bullet_3
+    21300008: Fire blue bullet_4
+    21300010: Fire blue bullet_5
+    21300012: Fire blue bullet_6
+    21300014: Fire blue bullet_7
+    21300016: Fire blue bullet_8
+    21300018: Fire blue bullet_9
+    21300020: Fire blue bullet_10
+    21300022: Fire blue bullet_11
+    21300024: Fire blue bullet_12
+    21300026: Fire blue bullet_13
+    21300028: Fire blue bullet_14
+    21300030: Fire blue bullet_15
+    21300032: Fire blue bullet_16
+    21300034: Fire blue bullet_17
+    21300036: Fire blue bullet_18
+    21300038: Fire blue bullet_19
+    21300040: Fire blue bullet_20
+    21300042: Fire blue bullet_21
+    21300044: Fire blue bullet_22
+    21300046: Fire blue bullet_23
+    21300048: Fire blue bullet_24
+    21300050: Fire blue bullet_25
+    21300052: Fire blue bullet_26
+    21300054: Fire blue bullet_27
+    21300056: Fire blue bullet_28
+    21300058: Fire blue bullet_29
+    21300060: Fire blue bullet_30
+    21300062: Fire blue bullet_31
+    21300064: Fire blue bullet_32
+    21300066: Fire blue bullet_33
+    21300068: Fire blue bullet_34
+    21300070: Fire blue bullet_35
+    21300072: Fire blue bullet_36
+    21300074: Fire blue bullet_37
+    21300076: Fire blue bullet_38
+    21300078: Fire blue bullet_39
+    21300080: Fire blue bullet_40
+    21300082: Fire blue bullet_41
+    21300084: Fire blue bullet_42
+    21300086: Fire blue bullet_43
+    21300088: Fire blue bullet_44
+    21300090: Fire blue bullet_45
+    21300092: Fire blue bullet_46
+    21300094: Fire blue bullet_47
+    21300096: Fire blue bullet_48
+    21300098: Fire blue bullet_49
+    21300100: Fire blue bullet_50
+    21300102: Fire blue bullet_51
+    21300104: Fire blue bullet_52
+    21300106: Fire blue bullet_53
+    21300108: Fire blue bullet_54
+    21300110: Fire blue bullet_55
+    21300112: Fire blue bullet_56
+    21300114: Fire blue bullet_57
+    21300116: Fire blue bullet_58
+    21300118: Fire blue bullet_59
+    21300120: Fire blue bullet_60
+    21300122: Fire blue bullet_61
+    21300124: Fire blue bullet_62
+    21300126: Fire blue bullet_63
+    21300128: Fire blue bullet_64
+    21300130: Fire blue bullet_65
+    21300132: Fire blue bullet_66
+    21300134: Fire blue bullet_67
+    21300136: Fire blue bullet_68
+    21300138: Fire blue bullet_69
+    21300140: Fire blue bullet_70
+    21300142: Fire blue bullet_71
+    21300144: Fire blue bullet_72
+    21300146: Fire blue bullet_73
+    21300148: Fire blue bullet_74
+    21300150: Fire blue bullet_75
+    21300152: Fire blue bullet_76
+    21300154: Fire blue bullet_77
+    21300156: Fire blue bullet_78
+    21300158: Fire blue bullet_79
+    21300160: Fire blue bullet_80
+    21300162: Fire blue bullet_81
+    21300164: Fire blue bullet_82
+    21300166: Fire blue bullet_83
+    21300168: Fire blue bullet_84
+    21300170: Fire blue bullet_85
+    21300172: Fire blue bullet_86
+    21300174: Fire blue bullet_87
+    21300176: Fire blue bullet_88
+    21300178: Fire blue bullet_89
+    21300180: Fire blue bullet_90
+    21300182: Fire blue bullet_91
+    21300184: Fire blue bullet_92
+    21300186: Fire blue bullet_93
+    21300188: Fire blue bullet_94
+    21300190: Fire blue bullet_95
+    21300192: Fire blue bullet_96
+    21300194: Fire blue bullet_97
+    21300196: Fire blue bullet_98
+    21300198: Fire blue bullet_99
+    21300200: Fire blue bullet_100
+    21300202: Fire blue bullet_101
+    21300204: Fire blue bullet_102
+    21300206: Fire blue bullet_103
+    21300208: Fire blue bullet_104
+    21300210: Fire blue bullet_105
+    21300212: Fire blue bullet_106
+    21300214: Fire blue bullet_107
+    21300216: Fire blue bullet_108
+    21300218: Fire blue bullet_109
+    21300220: Fire blue bullet_110
+    21300222: Fire blue bullet_111
+    21300224: Fire blue bullet_112
+    21300226: Fire blue bullet_113
+    21300228: Fire blue bullet_114
+    21300230: Fire blue bullet_115
+    21300232: Fire blue bullet_116
+    21300234: Fire blue bullet_117
+    21300236: Fire blue bullet_118
+    21300238: Fire blue bullet_119
+    21300240: Fire blue bullet_120
+    21300242: Fire blue bullet_121
+    21300244: Fire blue bullet_122
+    21300246: Fire blue bullet_123
+    21300248: Fire blue bullet_124
+    21300250: Fire blue bullet_125
+    21300252: Fire blue bullet_126
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire blue bullet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 160
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 216
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 168
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 169
+        width: 1
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 96
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 181
+        width: 6
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 96
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 128
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 81
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 77
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_35
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 74
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_39
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 74
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 74
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 36
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 36
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 67
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_53
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 67
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 67
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_61
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 60
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 60
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_63
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_65
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 60
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_67
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_68
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_70
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 60
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_75
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_76
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_77
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_78
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_79
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_81
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_82
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_83
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_84
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 53
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_86
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_87
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_90
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_92
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_93
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 46
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_95
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_96
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_97
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_99
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_100
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_102
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_103
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_104
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_105
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_106
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_107
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_110
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_111
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_112
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 39
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_114
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_116
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_119
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_120
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_121
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_122
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_123
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_124
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_125
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire blue bullet_126
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
