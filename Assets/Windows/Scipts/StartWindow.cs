@@ -18,6 +18,7 @@ public class StartWindow : GenericWindow {
         loadLock = false;
         AudioPlayer = gameObject.AddComponent<AudioSource>();
         if(EnterKey) AudioPlayer.PlayOneShot(EnterKey);
+        Player.Score = 0;
     }
 	public override void Open ()
     {

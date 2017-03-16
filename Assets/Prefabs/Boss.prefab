@@ -25,6 +25,7 @@ GameObject:
   - component: {fileID: 61014859303758654}
   - component: {fileID: 114672907975550388}
   - component: {fileID: 58550108173876358}
+  - component: {fileID: 114426559320601466}
   m_Layer: 0
   m_Name: Boss
   m_TagString: Deadly
@@ -58,8 +59,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1126473674226282}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 638, y: 377, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
+  m_LocalPosition: {x: 1213.9, y: 386.4, z: 0}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_Children:
   - {fileID: 4756469313375444}
   m_Father: {fileID: 0}
@@ -186,6 +187,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shieldSound: {fileID: 8300000, guid: 73397d2af7c218f4e9a3709dfdd8f4bc, type: 3}
+--- !u!114 &114426559320601466
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1126473674226282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cda6e6719f5aa46fbbc78caa1fedbc96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  platformCollider: {fileID: 0}
+  platformTrigger: {fileID: 0}
 --- !u!114 &114672907975550388
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -207,6 +221,8 @@ MonoBehaviour:
   health: 200
   Vulnerable: 0
   Fire: {fileID: 1392009022313184, guid: 6d549bbb74e543d4fb0756d0ae914978, type: 2}
+  feetCollider: {fileID: 61014859303758654}
+  bodyTrigger: {fileID: 58550108173876358}
   stepSound: {fileID: 8300000, guid: 1808f964951b3da439bd0bff5c3be6fb, type: 3}
   hurtSound: {fileID: 8300000, guid: e2b82d68255c91b4cbef124fc7840856, type: 3}
   landingSound: {fileID: 8300000, guid: eb2d3db8f9c848840855040c75c6fb7b, type: 3}

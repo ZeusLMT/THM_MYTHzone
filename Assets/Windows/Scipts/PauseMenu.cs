@@ -62,6 +62,7 @@ public class PauseMenu : MonoBehaviour {
 
     public void Restart()
     {
+        Player.Score = 0;
         if(!loadLock) loadScene(SceneManager.GetActiveScene().name);
     }
 

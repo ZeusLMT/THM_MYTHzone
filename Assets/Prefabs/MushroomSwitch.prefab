@@ -80,7 +80,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1874017667402896}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: edf9931fbfffa4af682a4287eef19d8e, type: 2}
   m_CullingMode: 0
@@ -116,6 +116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spikeMoving: {fileID: 0}
   Spike: {fileID: 0}
+  activeSound: {fileID: 8300000, guid: 1c446e7869f1c1440b9bcdbe76e21df3, type: 3}
 --- !u!212 &212476531514334262
 SpriteRenderer:
   m_ObjectHideFlags: 1

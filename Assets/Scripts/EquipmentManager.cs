@@ -39,7 +39,7 @@ public class EquipmentManager : MonoBehaviour {
 	}
 
 		IEnumerator BackToNormal(){
-			yield return new WaitForSeconds(3);
+			yield return new WaitForSeconds(1.5f);
 		animator.SetInteger ("EquippedItem", 0);
         Player.Instance.Freeze = false;
 

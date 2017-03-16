@@ -94,7 +94,7 @@ public abstract class Character : MonoBehaviour
             StartCoroutine(TakeDamage());
         }
     }
-    void OnBecameInvisible()
+    public virtual void OnBecameInvisible()
     {
         Destroy(gameObject);
     }

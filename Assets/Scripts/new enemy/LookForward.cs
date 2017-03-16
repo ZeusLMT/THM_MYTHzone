@@ -13,7 +13,7 @@ public class LookForward : MonoBehaviour
 
 	}
 	void Update () {
-		collision = Physics2D.Linecast (sightStart.position, sightEnd.position, 1 << LayerMask.NameToLayer ("Platform"));
+		collision = Physics2D.Linecast(sightStart.position, sightEnd.position, 1 << LayerMask.NameToLayer ("Platform"));
 		Debug.DrawLine (sightStart.position, sightEnd.position, Color.green);
 
 		if(collision == needsCollision)

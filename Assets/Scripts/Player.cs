@@ -42,6 +42,7 @@ public class Player : Character
     public AudioClip attackSound;
     public AudioClip daggerSound;
     public AudioClip slideSound;
+    private bool loadLock;
 
     public Rigidbody2D MyRigidbody { get; set; }
 
@@ -64,6 +65,7 @@ public class Player : Character
 	public override void Start ()
 	{
 		base.Start ();
+        loadLock = false;
 		MyRigidbody = GetComponent<Rigidbody2D> ();
 	}
 
@@ -97,20 +99,23 @@ public class Player : Character
 			gameObject.layer = 10;
 			MyAnimator.SetBool ("land", true);
 		}
-        //run
+        //freeze
         if (Freeze)
         {
             MyRigidbody.velocity = new Vector2(0, MyRigidbody.velocity.y);
         }
+        //run
         else if (!Attack && !Slide) {
 			MyRigidbody.velocity = new Vector2 (horizontal * movementSpeed, MyRigidbody.velocity.y);
-		} else if (!Attack && Slide)
+		}
+        //slide
+        else if (!Attack && Slide)
         {
             GetComponent<BoxCollider2D>().size = new Vector2(2, 3.5f);
             GetComponent<BoxCollider2D>().offset = new Vector2(-0.45f, -0.665f);
             MyRigidbody.velocity = new Vector2(horizontal * 2*movementSpeed, MyRigidbody.velocity.y);
         }
-
+        //jump
         if (OnGround && Jump) {
 			if (this.MyAnimator.GetCurrentAnimatorStateInfo (0).IsTag ("idle")) {
 				MyRigidbody.velocity = (new Vector2 (0, 50 * (jumpForce / MyRigidbody.mass)));
@@ -125,7 +130,7 @@ public class Player : Character
 	{
         if (PauseMenu.Paused == false)
         {
-            if (Input.GetKeyDown(KeyCode.DownArrow))
+            if (Input.GetKeyDown(KeyCode.DownArrow) && OnGround)
             {
                 MyAnimator.SetTrigger("slide");
                 /*attack = true;
@@ -252,11 +257,19 @@ public class Player : Character
             AudioPlayer.PlayOneShot(slideSound);
         }
     }
+    public override void OnBecameInvisible()
+    {
+        base.OnBecameInvisible();
+    }
 
     public void Over()
     {
         PlayerPrefs.SetString("currentscene", SceneManager.GetActiveScene().name);
-        SceneManager.LoadScene("GameOver");
+        if (!loadLock)
+        {
+            loadLock = true;
+            SceneManager.LoadScene("GameOver");
+        }
     }
 
 }

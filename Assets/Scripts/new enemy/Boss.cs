@@ -27,6 +27,10 @@ public class Boss : MonoBehaviour {
     [SerializeField]
     private GameObject Fire;
     private bool Dead;
+    [SerializeField]
+    private Collider2D feetCollider;
+    [SerializeField]
+    private Collider2D bodyTrigger;
     private AudioSource AudioPlayer;
     public AudioClip stepSound;
     public AudioClip hurtSound;
@@ -47,26 +51,28 @@ public class Boss : MonoBehaviour {
     }
     void Update()
     {
-        ActionSwitchDelay += Time.deltaTime;
-        shieldDelay -= Time.deltaTime;
+        if (!Dead)
+        {
+            ActionSwitchDelay += Time.deltaTime;
+            shieldDelay -= Time.deltaTime;
 
-        if (transform.localScale.x < 0) facingLeft = true;
-        if (shieldDelay <= 0 && !Dead)
-        {
-            if (ShieldActive) ShieldOff();
-            else ShieldOn();
-            shieldDelay = Random.Range(1, 5);
+            if (transform.localScale.x < 0) facingLeft = true;
+            if (shieldDelay <= 0 && !Dead)
+            {
+                if (ShieldActive) ShieldOff();
+                else ShieldOn();
+                shieldDelay = Random.Range(1, 5);
+            }
+            if (Moving)
+            {
+                Move();
+            }
+            if (ActionSwitchDelay < 4.1 && ActionSwitchDelay > 4)
+            {
+                Back2Idle();
+            }
+            if (ActionSwitchDelay >= 5 && player != null) ActionManager();
         }
-        if (Moving)
-        {
-            Move();
-        }
-        if(ActionSwitchDelay < 4.1 && ActionSwitchDelay > 4)
-        {
-            Back2Idle();
-        }
-        if(ActionSwitchDelay >= 5 && player != null) ActionManager();
-
     }
     private void ShieldOn()
     {
@@ -181,7 +187,6 @@ public class Boss : MonoBehaviour {
     {
         if ((other.gameObject.tag == "PlayerKnife" || other.gameObject.tag == "KnifeAttack") && !ShieldActive && Vulnerable)
         {
-            Debug.Log("abc");
             health -= 10;
             if (health > 0) animator.SetTrigger("damage");
             direction = -Mathf.Sign(other.gameObject.transform.position.x - body.transform.position.x);
@@ -194,8 +199,12 @@ public class Boss : MonoBehaviour {
             direction = -Mathf.Sign(other.gameObject.transform.position.x - body.transform.position.x);
             Destroy(other.gameObject);
         }
+        if (other.gameObject.name == "BossSmallPlatform")
+        {
+            Physics2D.IgnoreCollision(feetCollider, other, true);
+        }
 
-        if (health <= 0 && !Dead)
+            if (health <= 0 && !Dead)
         {
             animator.SetTrigger("die");
             gameObject.tag = "Untagged";

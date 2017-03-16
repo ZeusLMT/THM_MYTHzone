@@ -50,6 +50,7 @@ public class PopUp : MonoBehaviour {
         if (Other.gameObject.tag == "Player")
         {
             Destroy(Popup.gameObject);
+            if (OneTime) Destroy(this.gameObject);
         }
     }
 }

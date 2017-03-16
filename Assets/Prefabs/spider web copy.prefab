@@ -39,9 +39,10 @@ GameObject:
   - component: {fileID: 212202617639332128}
   - component: {fileID: 95509846013940948}
   - component: {fileID: 114902283056039206}
+  - component: {fileID: 61427851349515928}
   m_Layer: 0
   m_Name: spider_0
-  m_TagString: Deadly
+  m_TagString: Harmful
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -66,7 +67,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1108547838884962}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -727.4, y: -333.1, z: 0}
+  m_LocalPosition: {x: 729.1197, y: -294.88086, z: 0}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_Children:
   - {fileID: 4753393864439808}
@@ -93,6 +94,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!61 &61427851349515928
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1930124970199484}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 1.3245851, y: -1.104455}
+  serializedVersion: 2
+  m_Size: {x: 51.43216, y: 50.423916}
 --- !u!95 &95509846013940948
 Animator:
   serializedVersion: 3
