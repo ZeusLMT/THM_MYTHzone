@@ -60,7 +60,7 @@ GameObject:
   - component: {fileID: 114607076318383046}
   m_Layer: 0
   m_Name: Squid
-  m_TagString: Deadly
+  m_TagString: Harmful
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

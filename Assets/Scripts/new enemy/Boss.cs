@@ -43,7 +43,7 @@ public class Boss : MonoBehaviour {
     {
         AudioPlayer = gameObject.AddComponent<AudioSource>();
         animator = GetComponent<Animator>();
-        shieldDelay = Random.Range(1, 5);
+        shieldDelay = Random.Range(1, 10);
         body = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
         Running();
@@ -61,17 +61,17 @@ public class Boss : MonoBehaviour {
             {
                 if (ShieldActive) ShieldOff();
                 else ShieldOn();
-                shieldDelay = Random.Range(1, 5);
+                shieldDelay = Random.Range(1, 10);
             }
             if (Moving)
             {
                 Move();
             }
-            if (ActionSwitchDelay < 4.1 && ActionSwitchDelay > 4)
+            if (ActionSwitchDelay < 4.05 && ActionSwitchDelay > 4)
             {
                 Back2Idle();
             }
-            if (ActionSwitchDelay >= 5 && player != null) ActionManager();
+            if (ActionSwitchDelay >= 6 && player != null) ActionManager();
         }
     }
     private void ShieldOn()
@@ -192,7 +192,7 @@ public class Boss : MonoBehaviour {
             direction = -Mathf.Sign(other.gameObject.transform.position.x - body.transform.position.x);
             if (other.gameObject.tag != "KnifeAttack") Destroy(other.gameObject);
         }
-        if (other.gameObject.name == "FireBall(Clone)" && Vulnerable)
+        if (other.gameObject.name == "FireBall(Clone)")
         {
             health -= 30;
             if (health > 0) animator.SetTrigger("damage");

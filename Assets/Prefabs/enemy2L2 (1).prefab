@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 114097524560526002}
   m_Layer: 0
   m_Name: enemy2L2 (1)
-  m_TagString: Deadly
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

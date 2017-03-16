@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 58876626306219146}
   m_Layer: 0
   m_Name: StrollingEnemy
-  m_TagString: Deadly
+  m_TagString: Harmful
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -210,6 +210,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 100
+  health: 30
+  haveShield: 0
 --- !u!212 &212035366312156426
 SpriteRenderer:
   m_ObjectHideFlags: 1

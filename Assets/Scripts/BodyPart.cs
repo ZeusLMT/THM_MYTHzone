@@ -24,7 +24,6 @@ public class BodyPart : MonoBehaviour {
         {
             if (this.gameObject.name == "BodyPart(Clone)")
             {
-                Debug.Log(SceneManager.GetActiveScene().name);
                 PlayerPrefs.SetString("currentscene", SceneManager.GetActiveScene().name);
                 SceneManager.LoadScene("GameOver");
             }

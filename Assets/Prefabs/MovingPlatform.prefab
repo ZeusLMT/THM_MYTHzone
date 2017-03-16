@@ -237,7 +237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   childTransform: {fileID: 4786942871996838}
   transformB: {fileID: 4524274137435758}
-  speed: 10
+  speed: 20
 --- !u!212 &212061847483555844
 SpriteRenderer:
   m_ObjectHideFlags: 1

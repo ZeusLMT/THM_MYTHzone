@@ -510,7 +510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   childTransform: {fileID: 4324013705886532}
   transformB: {fileID: 4960922342630348}
-  speed: 20
+  speed: 15
 --- !u!114 &114195904218399516
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -536,6 +536,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MovingPlatform: {fileID: 1822300597586630}
+  activateSound: {fileID: 0}
 --- !u!114 &114763231770788982
 MonoBehaviour:
   m_ObjectHideFlags: 1
